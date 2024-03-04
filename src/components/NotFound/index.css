@@ -1,0 +1,15 @@
+.not-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.image-size {
+  height: 200px;
+}
+
+.para {
+  font-family: 'Roboto';
+}

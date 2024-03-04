@@ -1,0 +1,27 @@
+.un-order1 {
+  padding: 40px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #cccccc;
+}
+
+.list1 {
+  list-style-type: none;
+}
+
+.image1 {
+  height: 100px;
+  border-radius: 50px;
+}
+
+.slider-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: row;
+}
+
+.homepost-con {
+  padding: 40px;
+}

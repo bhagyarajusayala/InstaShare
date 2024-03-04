@@ -1,0 +1,44 @@
+.user-con {
+  display: flex;
+  flex-direction: row;
+}
+.user-con1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.profile {
+  margin-right: 50px;
+  margin-left: 100px;
+  height: 250px;
+  width: 350px;
+}
+
+.para {
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+
+.story-image {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+
+.frameImage {
+  height: 50px;
+}
+
+.user-main {
+  padding: 40px;
+}
+
+.post-main {
+  display: flex;
+  flex-direction: row;
+}
+.post_image {
+  margin-right: 20px;
+}
